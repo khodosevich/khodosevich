@@ -72,10 +72,9 @@ Frontend developer
 </a>
 
 <a href="http://www.github.com/khodosevich">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khodosevich&show_icons=true&locale=en&layout=compact&text_color=fff&bg_color=1c1917&langs_count=5&hide_border=true" alt="khodosevich" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khodosevich&hide_progress=true&show_icons=true&locale=en&layout=compact&text_color=fff&bg_color=1c1917&langs_count=6&hide_border=true" alt="khodosevich" />
 </a>
 
 <a href="http://www.github.com/khodosevich">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=khodosevich&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
-
