@@ -17,7 +17,6 @@ Frontend developer
 * ✉️  You can contact me at [khodosevich03@gmail.com](mailto:khodosevich03@gmail.com) 
 * 🧠  I'm learning React, Typescript
 
-<a href="https://www.github.com/khodosevich" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/khodosevich?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills  
 
