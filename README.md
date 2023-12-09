@@ -20,19 +20,19 @@ Frontend developer
 
 ### ⚡ Skills  
 
-#### 👨🏻‍💻 Frontend
+## 👨🏻‍💻 Frontend
 
 <div>
     <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,webpack,vite,sass,materialui,babel," />
 </div>
 
-#### 🛠 Tools:
+## 🛠 Tools:
 
 <div>
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,postman,docker" />
 </div>
 
-### 🎓 Studied at university:
+## 🎓 Studied at university:
 
 <div>
     <img src="https://skillicons.dev/icons?i=c,cpp,java,spring,scala,linux,mysql,postgres" />
