@@ -38,7 +38,7 @@ Frontend developer
     <img src="https://skillicons.dev/icons?i=c,cpp,java,spring,scala,linux,mysql,postgres" />
 </div>
 
-### 🔗 Connect with me:
+## 🔗 Connect with me:
 
 <div style="display: flex; gap: 20px">
     <a href="https://www.github.com/khodosevich" target="_blank" rel="noreferrer">
