@@ -47,7 +47,7 @@ Frontend developer
     <a href="https://www.instagram.com/_khodosevich_" target="_blank" rel="noreferrer">
          <img src="https://skillicons.dev/icons?i=instagram" />
     </a>
-    <a href="https://linkedin.com/in/matvey khodosevich" target="blank">
+    <a href="https://www.linkedin.com/in/matvey-khodosevich-30b2a7239" target="blank">
         <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>    
 </div>
