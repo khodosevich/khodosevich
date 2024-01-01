@@ -40,7 +40,7 @@ Frontend developer
 
 ## 🔗 Connect with me:
 
-<p align="center">
+<div>
     <a href="https://www.github.com/khodosevich" target="_blank" rel="noreferrer">
        <img src="https://skillicons.dev/icons?i=github" />
     </a>
