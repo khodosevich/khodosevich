@@ -1,30 +1,27 @@
 
 <h1 align="center">Hi, I'm Matvey!👋</h1>
 
-## Education 🎓
-
-### 🌐 Belarusian State University of Informatics and Radioelectronics
-### 💻 Computing Machines, Systems, and Networks
-
-## About me
-* 🌍  I'm based in Minsk, Belarus 
+## About me:
+* 🌍  I'm based in Minsk, Belarus
+* 🧠  I'm currently learning React, Typescript
 * 🖥️  See my [CV](http://khodosevich.github.io/CV/) 
 * ✉️  You can contact me at [khodosevich03@gmail.com](mailto:khodosevich03@gmail.com) 
-* 🧠  I'm currently learning React, Typescript
 
 
-## 👨🏻‍💻 Frontend stack
+## 👨🏻‍💻Frontend stack:
 
 <div>
-    <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,webpack,vite,sass,materialui,babel," />
+    <img src="https://skillicons.dev/icons?i=react,js,ts,redux,html,css,sass,webpack,vite,materialui,git" />
 </div>
+
+## 🎓Education:
+
+#### 🌐 Belarusian State University of Informatics and Radioelectronics
+#### 💻 Computing Machines, Systems, and Networks
 
 ## 🔗 Connect with me:
 
-<div >
-    <a href="https://www.github.com/khodosevich" target="_blank" rel="noreferrer">
-       <img src="https://skillicons.dev/icons?i=github" />
-    </a>
+<div>
     <a href="https://www.instagram.com/_khodosevich_" target="_blank" rel="noreferrer">
          <img src="https://skillicons.dev/icons?i=instagram" />
     </a>
