@@ -10,7 +10,7 @@
 ## 👨🏻‍💻Frontend stack:
 
 <div>
-    <img src="https://skillicons.dev/icons?i=next,react,vue,nuxt,js,ts,redux,html,css,sass,webpack,vite,materialui,git,docker" />
+    <img src="https://skillicons.dev/icons?i=next,react,vue,js,ts,redux,html,css,sass,webpack,vite,materialui,git,docker" />
 </div>
 
 ## 🎓Education:
