@@ -3,7 +3,6 @@
 
 ## About me:
 * 🌍  I'm based in Minsk, Belarus
-* 🧠  I'm currently learning React, Typescript
 * 🖥️  See my [CV](http://khodosevich.github.io/CV/) 
 * ✉️  You can contact me at [khodosevich03@gmail.com](mailto:khodosevich03@gmail.com) 
 
@@ -11,7 +10,7 @@
 ## 👨🏻‍💻Frontend stack:
 
 <div>
-    <img src="https://skillicons.dev/icons?i=react,js,ts,redux,html,css,sass,webpack,vite,materialui,git" />
+    <img src="https://skillicons.dev/icons?i=next,react,vue,nuxt,js,ts,redux,html,css,sass,webpack,vite,materialui,git,docker" />
 </div>
 
 ## 🎓Education:
