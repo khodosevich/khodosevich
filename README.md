@@ -3,7 +3,6 @@
 
 ## About me:
 * 🌍  I'm based in Minsk, Belarus
-* 🖥️  See my [CV](http://khodosevich.github.io/CV/) 
 * ✉️  You can contact me at [khodosevich03@gmail.com](mailto:khodosevich03@gmail.com) 
 
 
